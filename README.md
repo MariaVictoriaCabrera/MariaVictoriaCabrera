@@ -1,5 +1,5 @@
 - ## **Aspiring Software Engineer | Passionate about Crafting Pragmatic Solutions**
-  Hello there! I'm @MariaVictoriaCabrera, an aspiring software engineer with a keen interest in developing pragmatic and scalable software solutions.
+  Hello there! I'm @MariaVictoriaCabrera, a full-stack developer and aspiring software engineer with a keen interest in developing pragmatic and scalable software solutions.
 - ### **Technical Interests:**
   Fueled by a passion for technology, I'm exploring front-end development, back-end development, and software development with Java.
   My GitHub repository is a growing showcase where I experiment with coding, transforming concepts into tangible projects that reflect my dedication to the craft.
